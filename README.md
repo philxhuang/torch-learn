@@ -100,7 +100,7 @@ Remember, if you really love this field, you need to make it part of your life-l
 [Hacker News](https://news.ycombinator.com/)
 
 [ML Subreddit](https://www.reddit.com/r/MachineLearning/)
-
+git
 [StackOverflow](https://stackoverflow.com/)
 
 ## Equally Important ML Frameworks
