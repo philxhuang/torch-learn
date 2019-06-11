@@ -9,6 +9,7 @@ Feel free to fork and make your own. I only ask you give credit to where it is d
 
 **Disclaimer:** I do not own any of the resources listed below. Please use them responsibly and adhere to respective &copy;Copyright and related laws. I am not responsible for any plagiarism or legal implication that rises as a result of this GitHub repository.
 
+=========================
 - [ ] Denotes in Progress
 - [x] Denotes Completed
 
@@ -45,7 +46,7 @@ Feel free to fork and make your own. I only ask you give credit to where it is d
 [MIT: Calculus Textbook](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/)
 
 # Stage 1 - Basics
-##Intro without Deep Learning
+## Intro without Deep Learning
 [Udacity: Intro to ML](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 
 [Udacity: ML, by Georgia Tech](https://www.udacity.com/course/machine-learning--ud262)
@@ -55,7 +56,7 @@ Feel free to fork and make your own. I only ask you give credit to where it is d
 [MIT: Deep Learning Book](https://www.deeplearningbook.org/)
 
 # Stage 2 - PyTorch
-##Official Tutorials
+## Official Tutorials
 - [ ] [Pytorch Official](https://pytorch.org/)
     - The folks at PyTorch have wonderful tutorials. Check them out.
 
