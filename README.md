@@ -3,10 +3,11 @@
 Torch Learn is my ongoing project that documents all the resources I have found useful, all the small projects I have built, and all the white papers I have
 found interesting. This small project is meant for sharing with the rest of the academia and all beginners to Statistics & Machine Learning.
 
-Feel free to fork and make your own. I only ask you give credit to where it is due. **Happy learning.**
+Feel free to fork and make your own. I only ask you give credit to where it is due.
 
-**Disclaimer:** I do not own any of the resources listed below. Please use them responsibly and adhere to respective &copy;Copyright and related laws.
-I am not responsible for any plagiarism or legal implication that rises as a result of this GitHub repository.
+**Happy learning.**
+
+**Disclaimer:** I do not own any of the resources listed below. Please use them responsibly and adhere to respective &copy;Copyright and related laws. I am not responsible for any plagiarism or legal implication that rises as a result of this GitHub repository.
 
 - [ ] Denotes in Progress
 - [x] Denotes Completed
@@ -25,7 +26,7 @@ I am not responsible for any plagiarism or legal implication that rises as a res
 [Siraj: Learning CS in 5 Months](https://github.com/llSourcell/Learn_Computer_Science_in_5_Months)
 
 
-# Stage 0 {Python & Statistics}
+# Stage 0 - Python & Statistics
 ## Python Primer
 - [x] [CMU 15-110 Priciples of Computing](https://www.cs.cmu.edu/~15110/)
     - I have been a TA for this course, and I can attest to its effectiveness in teaching basic CS concepts in python. Begin with this if you have absolutely no programming experience.
@@ -34,7 +35,7 @@ I am not responsible for any plagiarism or legal implication that rises as a res
     - 15-112 has a notorious/loved fame at CMU because of its rigorous content and great professors. Will be very challenging but will prepare you well.
 
 ## Matrices & Linear Algebra
-[3Blue1Brown: Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [x] [3Blue1Brown: Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 [MIT: Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
@@ -49,9 +50,9 @@ I am not responsible for any plagiarism or legal implication that rises as a res
 
 [Udacity: ML, by Georgia Tech](https://www.udacity.com/course/machine-learning--ud262)
 
-[Coursera: ML](https://www.coursera.org/learn/machine-learning)
+[Coursera: ML, by Stanford, Andrew Ng](https://www.coursera.org/learn/machine-learning)
 
-[MIT: Deep Learning Book, Public](https://www.deeplearningbook.org/)
+[MIT: Deep Learning Book](https://www.deeplearningbook.org/)
 
 # Stage 2 - PyTorch
 ##Official Tutorials
@@ -87,12 +88,14 @@ I am not responsible for any plagiarism or legal implication that rises as a res
 [edx: Applied Deep Learning Capstone Project, by Microsoft](https://www.edx.org/course/applied-deep-learning-capstone-project)
 
 ## Specialization: Reinforcement Learning
-https://www.udacity.com/course/reinforcement-learning--ud600 (In Java)
+[Udacity: Reinforcement Learning, by Georgia Tech](https://www.udacity.com/course/reinforcement-learning--ud600)
+- This course is in Java.
 
 # Interesting Readings
 ## News
 Before you jump in, please remember to follow the leaders in ML on **Facebook, Twitter, LinkedIn, and other social media.**
 Remember, if you really love this field, you need to make it part of your life-long learning journey.
+
 [Hacker News](https://news.ycombinator.com/)
 
 [ML Subreddit](https://www.reddit.com/r/MachineLearning/)
@@ -101,12 +104,12 @@ Remember, if you really love this field, you need to make it part of your life-l
 
 ## Equally Important ML Frameworks
 [TensorFlow](https://www.tensorflow.org/)
-    - Duh.
+- Duh.
     
 [Keras](https://keras.io/)
 
 [Scikit Learning](https://scikit-learn.org/stable/index.html)
-    - Probably simplest and most beginner-friendly.
+- Probably simplest and most beginner-friendly.
 
 ## Blogs
 [Google AI Blog](https://ai.googleblog.com/)
