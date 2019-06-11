@@ -30,10 +30,10 @@ Feel free to fork and make your own. I only ask you give credit to where it is d
 # Stage 0 - Python & Statistics
 ## Python Primer
 - [x] [CMU 15-110 Priciples of Computing](https://www.cs.cmu.edu/~15110/)
-    - I have been a TA for this course, and I can attest to its effectiveness in teaching basic CS concepts in python. Begin with this if you have absolutely no programming experience.
+- I have been a TA for this course, and I can attest to its effectiveness in teaching basic CS concepts in python. Begin with this if you have absolutely no programming experience.
 
 - [x] [CMU 15-112 Fundamentals of Programming and Computer Science](http://www.krivers.net/15112-s19/)
-    - 15-112 has a notorious/loved fame at CMU because of its rigorous content and great professors. Will be very challenging but will prepare you well.
+- 15-112 has a notorious/loved fame at CMU because of its rigorous content and great professors. Will be very challenging but will prepare you well.
 
 ## Matrices & Linear Algebra
 - [x] [3Blue1Brown: Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
@@ -62,10 +62,10 @@ Feel free to fork and make your own. I only ask you give credit to where it is d
 
 ## Solid Playlist for Subtle References
 - [ ] [DeepLizard: Neural Network Programming - Deep Learning with PyTorch](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
-    - A surprisingly super clear playlist for PyTorch. Yuo folks at DeepLizard deserve more subs.
+- A surprisingly super clear playlist for PyTorch. Yuo folks at DeepLizard deserve more subs.
 
 - [ ] [fast.ai](https://www.fast.ai/)
-    - The famous fast.ai has hours of worthwhile tutorials. Check them out.
+- The famous fast.ai has hours of worthwhile tutorials. Check them out.
 
 ## Deep Learning with NN & PyTorch
 [edx: Deep Learning with Python and PyTorch](https://www.edx.org/course/deep-learning-with-python-and-pytorch)
@@ -100,7 +100,7 @@ Remember, if you really love this field, you need to make it part of your life-l
 [Hacker News](https://news.ycombinator.com/)
 
 [ML Subreddit](https://www.reddit.com/r/MachineLearning/)
-git
+
 [StackOverflow](https://stackoverflow.com/)
 
 ## Equally Important ML Frameworks
