@@ -26,7 +26,6 @@ Feel free to fork and make your own. I only ask you give credit to where it is d
 
 [Siraj: Learning CS in 5 Months](https://github.com/llSourcell/Learn_Computer_Science_in_5_Months)
 
-
 # Stage 0 - Python & Statistics
 ## Python Primer
 - [x] [CMU 15-110 Priciples of Computing](https://www.cs.cmu.edu/~15110/)
@@ -37,6 +36,10 @@ Feel free to fork and make your own. I only ask you give credit to where it is d
 
 ## Matrices & Linear Algebra
 - [x] [3Blue1Brown: Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- Good for intuition training, but you will need more practice afterwards.
+
+[KhanAcademy: Linear Algebra](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0)
+- Any same person would know not to watch all 144 videos. Use it for hard concepts and practices.
 
 [MIT: Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
@@ -45,7 +48,7 @@ Feel free to fork and make your own. I only ask you give credit to where it is d
 
 [MIT: Calculus Textbook](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/)
 
-# Stage 1 - Basics
+# Stage 1 - ML Basics
 ## Intro without Deep Learning
 [Udacity: Intro to ML](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 
