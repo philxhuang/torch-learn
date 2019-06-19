@@ -1,15 +1,15 @@
-<h1 style="text-align: center; font-size: 24px">Torch Learn, a Life-Long Learning Journey on ML</h1>
+<h1 style="align: center; font-size: 24px">Torch Learn, a Life-Long Learning Journey on ML</h1>
 
 Torch Learn is my ongoing project that documents all the resources I have found useful, all the small projects I have built, and all the white papers I have
 found interesting. This small project is meant for sharing with the rest of the academia and all beginners to Statistics & Machine Learning.
 
 Feel free to fork and make your own. I only ask you give credit to where it is due.
 
-**Happy learning.**
+**Happy learning \\:-)**
 
 **Disclaimer:** I do not own any of the resources listed below. Please use them responsibly and adhere to respective &copy;Copyright and related laws. I am not responsible for any plagiarism or legal implication that rises as a result of this GitHub repository.
 
-=========================
+---
 - [ ] Denotes in Progress
 - [x] Denotes Completed
 
@@ -95,7 +95,7 @@ Feel free to fork and make your own. I only ask you give credit to where it is d
 [Udacity: Reinforcement Learning, by Georgia Tech](https://www.udacity.com/course/reinforcement-learning--ud600)
 - This course is in Java.
 
-# Interesting Readings
+# Leisure Readings & CS/ML News
 ## News
 Before you jump in, please remember to follow the leaders in ML on **Facebook, Twitter, LinkedIn, and other social media.**
 Remember, if you really love this field, you need to make it part of your life-long learning journey.
@@ -121,3 +121,34 @@ Remember, if you really love this field, you need to make it part of your life-l
 [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
 
 [CMU AI Blog](https://blog.ml.cmu.edu/)
+
+## Social Media & Follow Famous People
+Personally, I follow renowned ML researchers, labs, and institutes on FaceBook and Twitter. These include but not limited to:
+
+---
+ML Researchers & CS Professors
+- Andrew Ng
+- Ian Goodfellow
+- Yan LeCun
+- Yoshua Bengio
+- Jeoffery Hinton
+- Hardmaru (Google Tokyo)
+---
+Institutes & Industry Labs
+- MIT CS
+- SCSatCMU
+- MLatCMU
+- Google Brains
+- Facebook AI Research
+
+# Extra PDF Readings for Research, ML, Grad School, etc.
+**Disclaimer:** I particularly do not own any of the resources above. I try my best to give you the original link, but sometimes I do lose or forget them for ages.
+In that case, I may have it downloaded already and available on this repository. I am not responsible for any use of the below resources. I am happy to remove such resources upon contact in case of &copy;copyright regulations.
+
+[Applying to Ph.D. Programs in Computer Science](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
+
+[A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
+
+[The Discipline of Machine Learning](https://www.cs.cmu.edu/~tom/pubs/MachineLearning.pdf)
+
+[Mathematics for Machine Learning](https://gwthomas.github.io/docs/math4ml.pdf)
