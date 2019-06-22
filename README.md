@@ -16,7 +16,13 @@ Feel free to fork and make your own. I only ask you give credit to where it is d
 # Inspirations for Resources:
 [The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch)
 
+[Awesome Series](https://github.com/sindresorhus/awesome)
+
 [Awesome PyTorch List](https://github.com/bharathgs/Awesome-pytorch-list)
+
+[Awesome Machine Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+
+[Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl#papers--thesis)
 
 <p>Many thanks to Siraj Raval, how practically inspired me to create this list to track my learning.</p>
 
