@@ -158,3 +158,7 @@ In that case, I may have it downloaded already and available on this repository.
 [The Discipline of Machine Learning](https://www.cs.cmu.edu/~tom/pubs/MachineLearning.pdf)
 
 [Mathematics for Machine Learning](https://gwthomas.github.io/docs/math4ml.pdf)
+
+[Computer Vision: Algorithms and Applications (Richard Szeliski)](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
+
+[Some Books for ML](https://www.youtube.com/watch?v=1lxHH1UBTBU)
